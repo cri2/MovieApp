@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movieImage">scarfaceImage</string>
+    <string name="creators">Creators:</string>
+    <string name="movieActors">Actors:</string>
+    <string name="story">Story</string>
+    <string name="fab">FAB</string>
+</resources>
